@@ -1,4 +1,6 @@
-# Node 
-[node.js入门地址](http://www.iblogtek.com/wordpress/?p=197)
+# Node 学习
+初学者建议看看，实例nodejs-intro为一个新建的实例，没有添加任何代码，只是测试express安装是否成功更多实例请看下面介绍。
+[node.js入门地址1，点击查看](http://www.iblogtek.com/wordpress/?p=38)
+[node.js入门地址2，点击查看](http://www.iblogtek.com/wordpress/?p=197)
 
-node.js相关
+##
