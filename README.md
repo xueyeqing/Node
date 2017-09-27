@@ -3,4 +3,7 @@
 [node.js入门地址1，点击查看](http://www.iblogtek.com/wordpress/?p=38)
 [node.js入门地址2，点击查看](http://www.iblogtek.com/wordpress/?p=197)
 
-##
+## 创建项目：
+Create the app:
+	如：express --view=hbs /tmp/foo && cd /tmp/foo
+    如：express --view=ejs /Users/a1/NodeJsDemo/Node/HelloNodeJs && cd /Users/a1/NodeJsDemo/Node/HelloNodeJs 
