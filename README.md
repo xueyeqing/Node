@@ -5,5 +5,5 @@
 
 ## 创建项目：
 Create the app:
-	如：express --view=hbs /tmp/foo && cd /tmp/foo
-    如：express --view=ejs /Users/a1/NodeJsDemo/Node/HelloNodeJs && cd /Users/a1/NodeJsDemo/Node/HelloNodeJs 
+  >	如：express --view=hbs /tmp/foo && cd /tmp/foo
+  > 如：express --view=ejs /Users/a1/NodeJsDemo/Node/HelloNodeJs && cd /Users/a1/NodeJsDemo/Node/HelloNodeJs 
